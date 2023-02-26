@@ -1,28 +1,44 @@
-## Hi, my name is Marcio 
+<div>
+  <h1 align="center">
+    Hi, my name is
+    <a href="https://www.linkedin.com/in/marcio-jonavicius-rodrigues-6b0b0430/"> Marcio. </a>
+    <p> I have a degree in applied and computational mathematics with a master's degree in statistics and information management. </p>
+  </h1>
+  
 
-[![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://sujeitoprogramador.com)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/fragabr)
-
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)
-
-## Tecnologias que eu uso no meu dia
+## Technologies I use daily
 
 <div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  
+ </div><br/>
+
+
+## I am studying the technologies not to become a front-end developer, but to help in the creation and small applications~
+
+<div style="display: inline_block">
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="nodejs" src="https://raw.githubusercontent.com/jonavicius-marcio/data_science/main/src/img/tipy.png" /> 
-</div><br/>
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+ 
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
-### Últimos videos:
-- [Criando Infinite Scroll - React Native](https://youtu.be/TjkFGrjkXfc)<br/>
-- [O que estudar para se tornar um desenvolvedor front-end? 2022](https://youtu.be/Ab-kGzlCCWI)<br/>
-- [Criando interface login do Instagram - React Native](https://youtu.be/pSV9Wh_p2Cg)<br/>
-- [Aprendendo e conhecendo FIGMA - UI Design](https://youtu.be/KRCfX25yFf4)<br/>
+## Git content
 
+<div style="display: inline_block">
+
+  <p>  This git contains some repositories that aim to show some acquired knowledge and be used as a manual for future applications.
+The python_data_science repository contains some of the models in the table below and I am including the other models. </p>
+
+  <img align="center" alt="nodejs" src="https://github.com/jonavicius-marcio/data_science/blob/main/src/img/machine_learning.png?raw=true" />
+  
+ </div><br/>
+
+
+
+<div align="center">
