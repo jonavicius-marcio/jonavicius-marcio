@@ -2,7 +2,7 @@
   <h1 align="center">
     Hi, my name is
     <a href="https://www.linkedin.com/in/marcio-jonavicius-rodrigues-6b0b0430/"> Marcio. </a>
-    <p> I have a degree in applied and computational mathematics with a master's degree in statistics and information management. </p>
+    <p> I have a degree in Applied and Computational Mathematics (USP) and a Master's in Statistics and Information Management (Nova IMS - Portugal). </p>
   </h1>
   
 
